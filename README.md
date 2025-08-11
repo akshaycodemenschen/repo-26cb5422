@@ -1,16 +1,5 @@
-# patrick_gpt_flutter
+repo-f6bae205
 
-A new Flutter project.
+Forked from keshavandroid/flutter-gpt-templet
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Test repository created at 2025-08-11T22:05:38.146627
